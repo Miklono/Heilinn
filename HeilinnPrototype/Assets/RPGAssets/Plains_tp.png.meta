@@ -1,0 +1,3152 @@
+fileFormatVersion: 2
+guid: f96b372877306bc45aac894897fab953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8932170955898982194
+    second: Plains_tp_0
+  - first:
+      213: -537353103459190622
+    second: Plains_tp_1
+  - first:
+      213: -7770945413518313042
+    second: Plains_tp_2
+  - first:
+      213: -4697765168578463925
+    second: Plains_tp_3
+  - first:
+      213: -5366556872433635505
+    second: Plains_tp_4
+  - first:
+      213: 498175192394840755
+    second: Plains_tp_5
+  - first:
+      213: -2986455848796832530
+    second: Plains_tp_6
+  - first:
+      213: 8817600032417692379
+    second: Plains_tp_7
+  - first:
+      213: -3460081320138772827
+    second: Plains_tp_8
+  - first:
+      213: -4424101283028189577
+    second: Plains_tp_9
+  - first:
+      213: -3887723418364178597
+    second: Plains_tp_10
+  - first:
+      213: -3285817871501465105
+    second: Plains_tp_11
+  - first:
+      213: 3995691350241030313
+    second: Plains_tp_12
+  - first:
+      213: 1432986097680855195
+    second: Plains_tp_13
+  - first:
+      213: -8951538856106302117
+    second: Plains_tp_14
+  - first:
+      213: -1266420081099406117
+    second: Plains_tp_15
+  - first:
+      213: 6334200931370650285
+    second: Plains_tp_16
+  - first:
+      213: 5669597386952160255
+    second: Plains_tp_17
+  - first:
+      213: 2313228139163040752
+    second: Plains_tp_18
+  - first:
+      213: -4685762342572446169
+    second: Plains_tp_19
+  - first:
+      213: 5262726881203512936
+    second: Plains_tp_20
+  - first:
+      213: 8535131621887852490
+    second: Plains_tp_21
+  - first:
+      213: -3400169411835954372
+    second: Plains_tp_22
+  - first:
+      213: 2810410761964944928
+    second: Plains_tp_23
+  - first:
+      213: 6532066329024928522
+    second: Plains_tp_24
+  - first:
+      213: -1213784628462640512
+    second: Plains_tp_25
+  - first:
+      213: 8134411314343491002
+    second: Plains_tp_26
+  - first:
+      213: -8362712728180477881
+    second: Plains_tp_27
+  - first:
+      213: 3189075718682788158
+    second: Plains_tp_28
+  - first:
+      213: -6378558008894604704
+    second: Plains_tp_29
+  - first:
+      213: 6611720432409679567
+    second: Plains_tp_30
+  - first:
+      213: 2216063159423128166
+    second: Plains_tp_31
+  - first:
+      213: 1346454966570029945
+    second: Plains_tp_32
+  - first:
+      213: 5363184138576930815
+    second: Plains_tp_33
+  - first:
+      213: -3053955596843387287
+    second: Plains_tp_34
+  - first:
+      213: -1679953807015383417
+    second: Plains_tp_35
+  - first:
+      213: -5027152352752926831
+    second: Plains_tp_36
+  - first:
+      213: 2506392587523018102
+    second: Plains_tp_37
+  - first:
+      213: 3861048793162256583
+    second: Plains_tp_38
+  - first:
+      213: -5137429688874499815
+    second: Plains_tp_39
+  - first:
+      213: 1949166032717181821
+    second: Plains_tp_40
+  - first:
+      213: 8264875779141601755
+    second: Plains_tp_41
+  - first:
+      213: -5895664499170747299
+    second: Plains_tp_42
+  - first:
+      213: -8023426066537508511
+    second: Plains_tp_43
+  - first:
+      213: 2837911623888812351
+    second: Plains_tp_44
+  - first:
+      213: -5224804314712353387
+    second: Plains_tp_45
+  - first:
+      213: -4509133836063101267
+    second: Plains_tp_46
+  - first:
+      213: 3660962951345633597
+    second: Plains_tp_47
+  - first:
+      213: 2128190739845057983
+    second: Plains_tp_48
+  - first:
+      213: 3339503230226625043
+    second: Plains_tp_49
+  - first:
+      213: 2457193702366160656
+    second: Plains_tp_50
+  - first:
+      213: -4886982588717335053
+    second: Plains_tp_51
+  - first:
+      213: 5543066408239437091
+    second: Plains_tp_52
+  - first:
+      213: 4139574829589586604
+    second: Plains_tp_53
+  - first:
+      213: 3953841257070755523
+    second: Plains_tp_54
+  - first:
+      213: 8507728832523684808
+    second: Plains_tp_55
+  - first:
+      213: -1974578182306599428
+    second: Plains_tp_56
+  - first:
+      213: 5392865470814553532
+    second: Plains_tp_57
+  - first:
+      213: -2891909110329119805
+    second: Plains_tp_58
+  - first:
+      213: -1379083903226042300
+    second: Plains_tp_59
+  - first:
+      213: 9116109889377396554
+    second: Plains_tp_60
+  - first:
+      213: -744637239029146930
+    second: Plains_tp_61
+  - first:
+      213: 2364106294169773858
+    second: Plains_tp_62
+  - first:
+      213: -3403475890972406184
+    second: Plains_tp_63
+  - first:
+      213: -8963452045647129495
+    second: Plains_tp_64
+  - first:
+      213: -2942519265301615849
+    second: Plains_tp_65
+  - first:
+      213: 6269843695292133035
+    second: Plains_tp_66
+  - first:
+      213: -5281874800385444813
+    second: Plains_tp_67
+  - first:
+      213: -3805739137756917142
+    second: Plains_tp_68
+  - first:
+      213: -6713863819902665567
+    second: Plains_tp_69
+  - first:
+      213: 294628217810624100
+    second: Plains_tp_70
+  - first:
+      213: -312016517696734194
+    second: Plains_tp_71
+  - first:
+      213: -33042698370406009
+    second: Plains_tp_72
+  - first:
+      213: 991624921039764336
+    second: Plains_tp_73
+  - first:
+      213: 2627637726013831287
+    second: Plains_tp_74
+  - first:
+      213: 2201902527857065919
+    second: Plains_tp_75
+  - first:
+      213: 2047479787447982744
+    second: Plains_tp_76
+  - first:
+      213: 5795540660406035074
+    second: Plains_tp_77
+  - first:
+      213: 2522750347637877963
+    second: Plains_tp_78
+  - first:
+      213: -7186301754889555605
+    second: Plains_tp_79
+  - first:
+      213: -2253435172245642880
+    second: Plains_tp_80
+  - first:
+      213: 8937598033308059665
+    second: Plains_tp_81
+  - first:
+      213: -1532596370406008742
+    second: Plains_tp_82
+  - first:
+      213: 7822421079832701927
+    second: Plains_tp_83
+  - first:
+      213: 1677409584107020408
+    second: Plains_tp_84
+  - first:
+      213: -5707411342457845159
+    second: Plains_tp_85
+  - first:
+      213: -2540612832198122988
+    second: Plains_tp_86
+  - first:
+      213: -8541371617046442547
+    second: Plains_tp_87
+  - first:
+      213: 5591686554832611869
+    second: Plains_tp_88
+  - first:
+      213: 6095795547792973217
+    second: Plains_tp_89
+  - first:
+      213: 826682699651615704
+    second: Plains_tp_90
+  - first:
+      213: 8705184126831405779
+    second: Plains_tp_91
+  - first:
+      213: 1041007836916806791
+    second: Plains_tp_92
+  - first:
+      213: -165001818869204900
+    second: Plains_tp_93
+  - first:
+      213: -8973235196524516162
+    second: Plains_tp_94
+  - first:
+      213: 2143537112918487149
+    second: Plains_tp_95
+  - first:
+      213: -5507918191615281036
+    second: Plains_tp_96
+  - first:
+      213: 1935122796634594964
+    second: Plains_tp_97
+  - first:
+      213: -284499694778540599
+    second: Plains_tp_98
+  - first:
+      213: -7585741205260281463
+    second: Plains_tp_99
+  - first:
+      213: -2773058288492379820
+    second: Plains_tp_100
+  - first:
+      213: -5638549759037570363
+    second: Plains_tp_101
+  - first:
+      213: -4436590139445695321
+    second: Plains_tp_102
+  - first:
+      213: 1108706920900758251
+    second: Plains_tp_103
+  - first:
+      213: 6882392912557690442
+    second: Plains_tp_104
+  - first:
+      213: -3861880382010522088
+    second: Plains_tp_105
+  - first:
+      213: -8379841443234050042
+    second: Plains_tp_106
+  - first:
+      213: -2079875713684925789
+    second: Plains_tp_107
+  - first:
+      213: -8426011869478434671
+    second: Plains_tp_108
+  - first:
+      213: -79004270307983883
+    second: Plains_tp_109
+  - first:
+      213: -8975003459880593671
+    second: Plains_tp_110
+  - first:
+      213: -937664925056493579
+    second: Plains_tp_111
+  - first:
+      213: 1070379155812808896
+    second: Plains_tp_112
+  - first:
+      213: 8390504609077172508
+    second: Plains_tp_113
+  - first:
+      213: -9040341467935701298
+    second: Plains_tp_114
+  - first:
+      213: -6728416208449777498
+    second: Plains_tp_115
+  - first:
+      213: -4053085452033200619
+    second: Plains_tp_116
+  - first:
+      213: 6998810572347914821
+    second: Plains_tp_117
+  - first:
+      213: -6738222303522775089
+    second: Plains_tp_118
+  - first:
+      213: 3149438742407335294
+    second: Plains_tp_119
+  - first:
+      213: -2855334636045421350
+    second: Plains_tp_120
+  - first:
+      213: 5582043386208890119
+    second: Plains_tp_121
+  - first:
+      213: 5010563924437845083
+    second: Plains_tp_122
+  - first:
+      213: -5261659975674704509
+    second: Plains_tp_123
+  - first:
+      213: 1791875650933898964
+    second: Plains_tp_124
+  - first:
+      213: 4144242011890003169
+    second: Plains_tp_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plains_tp_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 509
+        width: 540
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8b63e82275fb70800000000000000
+      internalID: 8932170955898982194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_1
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 892
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87c5d0330fa88f0800000000000000
+      internalID: -537353103459190622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 892
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93a42915e082490800000000000000
+      internalID: -7770945413518313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 892
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477da0187f2eceb0800000000000000
+      internalID: -4697765168578463925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 874
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f69af25f82685b0800000000000000
+      internalID: -5366556872433635505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 874
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba3b92b2bfd9e600800000000000000
+      internalID: 498175192394840755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_6
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb31b7a3afd86d0800000000000000
+      internalID: -2986455848796832530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabab703886e5a70800000000000000
+      internalID: 8817600032417692379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_8
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aee9232f525bffc0800000000000000
+      internalID: -3460081320138772827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_9
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e31cea25f6a92c0800000000000000
+      internalID: -4424101283028189577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f8f6726280c0ac0800000000000000
+      internalID: -3887723418364178597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_11
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 817
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9668c0e0e6662d0800000000000000
+      internalID: -3285817871501465105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b73bec1c837730800000000000000
+      internalID: 3995691350241030313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903758734df2e310800000000000000
+      internalID: 1432986097680855195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b556da076deb5c380800000000000000
+      internalID: -8951538856106302117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_15
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd406a165a5cc6ee0800000000000000
+      internalID: -1266420081099406117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daacb42ef2a97e750800000000000000
+      internalID: 6334200931370650285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff334ccd8c47eae40800000000000000
+      internalID: 5669597386952160255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb304f8cbc3a1020800000000000000
+      internalID: 2313228139163040752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e2115c9f3d8feb0800000000000000
+      internalID: -4685762342572446169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e8002736f80940800000000000000
+      internalID: 5262726881203512936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf34d13df0e27670800000000000000
+      internalID: 8535131621887852490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_22
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b7e5f4feb20d0d0800000000000000
+      internalID: -3400169411835954372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_23
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02efad3a2b5900720800000000000000
+      internalID: 2810410761964944928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b12d6c7bf86aa50800000000000000
+      internalID: 6532066329024928522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_25
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082a7a2bf45c72fe0800000000000000
+      internalID: -1213784628462640512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_26
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5bc501efb33e070800000000000000
+      internalID: 8134411314343491002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7403a2ec41da1fb80800000000000000
+      internalID: -8362712728180477881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3149ed387fd14c20800000000000000
+      internalID: 3189075718682788158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_29
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a3d94394fca77a0800000000000000
+      internalID: -6378558008894604704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc698ffe3bc81cb50800000000000000
+      internalID: 6611720432409679567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662de39c3b901ce10800000000000000
+      internalID: 2216063159423128166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973977488a19fa210800000000000000
+      internalID: 1346454966570029945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_33
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff723e40f8bdd6a40800000000000000
+      internalID: 5363184138576930815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_34
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667552b09b2e95d0800000000000000
+      internalID: -3053955596843387287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e68cdc9ea9fa8e0800000000000000
+      internalID: -1679953807015383417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_36
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7466f197fb3ab0800000000000000
+      internalID: -5027152352752926831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4bf667ce78c220800000000000000
+      internalID: 2506392587523018102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_38
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c013e0bb63359530800000000000000
+      internalID: 3861048793162256583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_39
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110710daee24b8b0800000000000000
+      internalID: -5137429688874499815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_40
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737d5cfd24dc0b10800000000000000
+      internalID: 1949166032717181821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_41
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd907706bbcb2b270800000000000000
+      internalID: 8264875779141601755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_42
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 694
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cdb04ef546e2ea0800000000000000
+      internalID: -5895664499170747299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_43
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 730
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1611c6e908017a090800000000000000
+      internalID: -8023426066537508511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_44
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3938d50699426720800000000000000
+      internalID: 2837911623888812351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_45
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 730
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59554a07824cd77b0800000000000000
+      internalID: -5224804314712353387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_46
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea3c0aaa65c61c0800000000000000
+      internalID: -4509133836063101267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_47
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 730
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3972da586a5ec230800000000000000
+      internalID: 3660962951345633597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_48
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd8db6c33ad88d10800000000000000
+      internalID: 2128190739845057983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_49
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 730
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3127de39e7c485e20800000000000000
+      internalID: 3339503230226625043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 712
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017acdd47a4b91220800000000000000
+      internalID: 2457193702366160656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdfbf75a33fd2cb0800000000000000
+      internalID: -4886982588717335053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_52
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251385a78decec40800000000000000
+      internalID: 5543066408239437091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_53
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e5d60069b27930800000000000000
+      internalID: 4139574829589586604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7cf9ccadded630800000000000000
+      internalID: 3953841257070755523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_55
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb4ceb1c46811670800000000000000
+      internalID: 8507728832523684808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_56
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 694
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde06eda93e894e0800000000000000
+      internalID: -1974578182306599428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_57
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 712
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50f55b29e47da40800000000000000
+      internalID: 5392865470814553532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_58
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbed147cffddd7d0800000000000000
+      internalID: -2891909110329119805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_59
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a0c82f728cdce0800000000000000
+      internalID: -1379083903226042300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e3c925ade28e70800000000000000
+      internalID: 9116109889377396554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_61
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecad32950648aa5f0800000000000000
+      internalID: -744637239029146930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_62
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272143262efec020800000000000000
+      internalID: 2364106294169773858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_63
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ecbf4a5bc64c0d0800000000000000
+      internalID: -3403475890972406184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_64
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96454f9dadb6b9380800000000000000
+      internalID: -8963452045647129495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_65
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b24fe71521a27d0800000000000000
+      internalID: -2942519265301615849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_66
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2c1f2f95f20750800000000000000
+      internalID: 6269843695292133035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33430f68ad203b6b0800000000000000
+      internalID: -5281874800385444813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62923afa6c4f2bc0800000000000000
+      internalID: -3805739137756917142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_69
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acba586d6093d2a0800000000000000
+      internalID: -6713863819902665567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_70
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 640
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e98679dcab61400800000000000000
+      internalID: 294628217810624100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_71
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb1aa51ae7babf0800000000000000
+      internalID: -312016517696734194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_72
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789263547db9a8ff0800000000000000
+      internalID: -33042698370406009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bfff0ac95f2cd00800000000000000
+      internalID: 991624921039764336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_74
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 640
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783879079e377420800000000000000
+      internalID: 2627637726013831287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_75
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 612
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf74f2deaabe8e10800000000000000
+      internalID: 2201902527857065919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_76
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a11a7c40c1a6c10800000000000000
+      internalID: 2047479787447982744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_77
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a5d84685ed6050800000000000000
+      internalID: 5795540660406035074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_78
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce2f7331c920320800000000000000
+      internalID: 2522750347637877963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_79
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 622
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ba0be0a0254c90800000000000000
+      internalID: -7186301754889555605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_80
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0816de966a03ab0e0800000000000000
+      internalID: -2253435172245642880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_81
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188e80de0ab80c70800000000000000
+      internalID: 8937598033308059665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_82
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5895ed98bf1bbae0800000000000000
+      internalID: -1532596370406008742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_83
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eba4f2f682de8c60800000000000000
+      internalID: 7822421079832701927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_84
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e883212b574710800000000000000
+      internalID: 1677409584107020408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_85
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac3c98f933bc0b0800000000000000
+      internalID: -5707411342457845159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_86
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122801071eedbcd0800000000000000
+      internalID: -2540612832198122988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_87
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc757b4c3f67980800000000000000
+      internalID: -8541371617046442547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_88
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a202cab49a99d40800000000000000
+      internalID: 5591686554832611869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_89
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9b99f0cd989450800000000000000
+      internalID: 6095795547792973217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_90
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db02be0987f87b00800000000000000
+      internalID: 826682699651615704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_91
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 568
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa72067d60fc870800000000000000
+      internalID: 8705184126831405779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_92
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f2d7bc17627e00800000000000000
+      internalID: 1041007836916806791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_93
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f10f48bbc5bdf0800000000000000
+      internalID: -165001818869204900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_94
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcaf19812aa87380800000000000000
+      internalID: -8973235196524516162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_95
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 561
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d607f52b5af5fbd10800000000000000
+      internalID: 2143537112918487149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_96
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 568
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fbd04691ff83b0800000000000000
+      internalID: -5507918191615281036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_97
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 490
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5a2a4eefeada10800000000000000
+      internalID: 1935122796634594964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_98
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 508
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9402f8014d0cf0800000000000000
+      internalID: -284499694778540599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_99
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 429
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989da6690980ab690800000000000000
+      internalID: -7585741205260281463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 23
+        width: 573
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45185fccd2e1489d0800000000000000
+      internalID: -2773058288492379820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_101
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 472
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c283345ed8dfb1b0800000000000000
+      internalID: -5638549759037570363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_102
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 403
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aca65436c01e62c0800000000000000
+      internalID: -4436590139445695321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_103
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 372
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea8e44021be26f00800000000000000
+      internalID: 1108706920900758251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_104
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 327
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ecaa5b3eb238f50800000000000000
+      internalID: 6882392912557690442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_105
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 251
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8168631f048d76ac0800000000000000
+      internalID: -3861880382010522088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_106
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60010fd0b92d4bb80800000000000000
+      internalID: -8379841443234050042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_107
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a219dcde0cc223e0800000000000000
+      internalID: -2079875713684925789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_108
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198438ef8dac01b80800000000000000
+      internalID: -8426011869478434671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_109
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbd84e80257eef0800000000000000
+      internalID: -79004270307983883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_110
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 218
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65ae3a7e1627380800000000000000
+      internalID: -8975003459880593671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_111
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71aa7f7bebcf2f0800000000000000
+      internalID: -937664925056493579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_112
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 197
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8743dcb20cade00800000000000000
+      internalID: 1070379155812808896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_113
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c199256bc7f017470800000000000000
+      internalID: 8390504609077172508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_114
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 179
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6857b25514a8280800000000000000
+      internalID: -9040341467935701298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_115
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0de5a6b1ddf92a0800000000000000
+      internalID: -6728416208449777498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_116
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee14b614c80c7c0800000000000000
+      internalID: -4053085452033200619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_117
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abb0f5225c02160800000000000000
+      internalID: 6998810572347914821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_118
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf19ecf3860d72a0800000000000000
+      internalID: -6738222303522775089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_119
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 97
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dca0b89dd05bb20800000000000000
+      internalID: 3149438742407335294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_120
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 97
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4b4a7d640df58d0800000000000000
+      internalID: -2855334636045421350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_121
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 29
+        width: 39
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dacc382e6677d40800000000000000
+      internalID: 5582043386208890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 63
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5441889759198540800000000000000
+      internalID: 5010563924437845083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_123
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 63
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc40d2124daf6b0800000000000000
+      internalID: -5261659975674704509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_124
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 23
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de369729650ed810800000000000000
+      internalID: 1791875650933898964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tp_125
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 29
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec24f5172e438930800000000000000
+      internalID: 4144242011890003169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
