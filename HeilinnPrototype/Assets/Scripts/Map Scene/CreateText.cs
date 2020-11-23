@@ -25,7 +25,6 @@ public class CreateText : MonoBehaviour
 
     public void OnEnable()
     {
-        Debug.Log(letters[0]);
         if (!isShowing)
         {
             StartCoroutine(ShowText());

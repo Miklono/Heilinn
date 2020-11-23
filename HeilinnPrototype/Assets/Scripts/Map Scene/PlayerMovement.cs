@@ -116,5 +116,9 @@ public class PlayerMovement : MonoBehaviour
         {
             onDialog = true;
         }
+        if(interaciotn && c.tag == "Cave")
+        {
+            SceneManager.LoadScene("Map Scene");
+        }
     }
 }

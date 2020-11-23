@@ -1,0 +1,13 @@
+3 enemics:
+	combat per torns
+	exp
+	pregunta al atzar per bonificacio
+	preguntas sobre el mateix
+
+Jefe:
+	combat per torns
+	Examen per cambiar de mon. Si fallas tornar a començar pero nomes a fer l'examen. Es mantenen stats. 
+	
+Sistema de preguntes per aconseguir bonos.
+
+Els mons tenen tematica

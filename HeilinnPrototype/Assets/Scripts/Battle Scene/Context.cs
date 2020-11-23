@@ -14,5 +14,6 @@ public enum Context
         Heal,
         Defense,
     ScapeMenu,
+    QuestionMenu,
     EnemyTurn
 }
