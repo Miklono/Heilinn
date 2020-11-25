@@ -118,10 +118,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocity: 500
-  dialog: {fileID: 0}
-  canMove: 1
-  interaciotn: 0
-  onDialog: 0
+  initialPosition: {fileID: 3414465564456323757, guid: 828b9e1065c800746bc059357feb8a89,
+    type: 3}
+  mapManager: {fileID: 3281749288601722722, guid: 67bb2d9cd30d3c845b1cc995eeea6170,
+    type: 3}
 --- !u!50 &7805477666859584189
 Rigidbody2D:
   serializedVersion: 4

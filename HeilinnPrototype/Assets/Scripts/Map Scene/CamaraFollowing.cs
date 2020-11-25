@@ -6,17 +6,17 @@ public class CamaraFollowing : MonoBehaviour
 {
     public Transform playerPosition;
 
-
+    Transform player;
     // Start is called before the first frame update
     void Start()
     {
-        
+        player = GameObject.Find("Main Character").transform;
     }
 
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(playerPosition.position.x, playerPosition.position.y, -20f);
+        transform.position = new Vector3(player.position.x, player.position.y, -20f);
        
     }
 }

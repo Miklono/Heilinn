@@ -10,8 +10,8 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float velocity = 500f;
-    public GameObject dialog;
-    public GameObject txtMPObject;
+    public GameObject initialPosition;
+    public MapManager mapManager;
 
     Animator animator;
     float vertical;
@@ -31,7 +31,6 @@ public class PlayerMovement : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        dialog.SetActive(false);
     }
 
     // Update is called once per frame
@@ -91,13 +90,12 @@ public class PlayerMovement : MonoBehaviour
         if (onDialog)
         {
             canMove = false;
-            dialog.SetActive(true);
             rb.velocity = new Vector2(0f, 0f);
             animator.SetBool("Walk", false);
             animator.SetBool("WalkBack", false);
             animator.SetBool("WalkLeft", false);
             animator.SetBool("WalkRight", false);
-            txtMPObject.GetComponent<CreateText>().OnEnable();
+            mapManager.StartDialog();
             if (Input.GetKeyDown(KeyCode.E))
             {
                 SceneManager.LoadScene("CombatScene");
@@ -106,7 +104,6 @@ public class PlayerMovement : MonoBehaviour
         if (!onDialog)
         {
             canMove = true;
-            dialog.SetActive(false);
         }
     }
 
@@ -119,6 +116,8 @@ public class PlayerMovement : MonoBehaviour
         if(interaciotn && c.tag == "Cave")
         {
             SceneManager.LoadScene("Map Scene");
+            transform.position = initialPosition.transform.position;
+            DontDestroyOnLoad(this.gameObject);
         }
     }
 }
