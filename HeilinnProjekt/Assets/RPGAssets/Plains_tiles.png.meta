@@ -1,0 +1,3116 @@
+fileFormatVersion: 2
+guid: b3996d62b6772b848a3b84b7a1da82eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3883335204046613574
+    second: Plains_tiles_0
+  - first:
+      213: -6441559835434026295
+    second: Plains_tiles_1
+  - first:
+      213: 8644504126260304399
+    second: Plains_tiles_2
+  - first:
+      213: -6752209679923887281
+    second: Plains_tiles_3
+  - first:
+      213: 2568689504034271721
+    second: Plains_tiles_4
+  - first:
+      213: 4468391233050816195
+    second: Plains_tiles_5
+  - first:
+      213: -5639915865975618678
+    second: Plains_tiles_6
+  - first:
+      213: 2050515817474598910
+    second: Plains_tiles_7
+  - first:
+      213: -3769058113547008254
+    second: Plains_tiles_8
+  - first:
+      213: -6942706176964041319
+    second: Plains_tiles_9
+  - first:
+      213: -6357835610312393105
+    second: Plains_tiles_10
+  - first:
+      213: -1218082147824465514
+    second: Plains_tiles_11
+  - first:
+      213: 2681480018510512450
+    second: Plains_tiles_12
+  - first:
+      213: 602777939750266002
+    second: Plains_tiles_13
+  - first:
+      213: -641621313517013132
+    second: Plains_tiles_14
+  - first:
+      213: -1155213094042720154
+    second: Plains_tiles_15
+  - first:
+      213: 8441601418195949350
+    second: Plains_tiles_16
+  - first:
+      213: 1164701518904796658
+    second: Plains_tiles_17
+  - first:
+      213: 6586846501120211228
+    second: Plains_tiles_18
+  - first:
+      213: -1133667983278059036
+    second: Plains_tiles_19
+  - first:
+      213: -6777473353315547580
+    second: Plains_tiles_20
+  - first:
+      213: 6181720013995366296
+    second: Plains_tiles_21
+  - first:
+      213: 4684483827145470407
+    second: Plains_tiles_22
+  - first:
+      213: 1317844784230205273
+    second: Plains_tiles_23
+  - first:
+      213: -1700614783438335
+    second: Plains_tiles_24
+  - first:
+      213: -3325328237065790304
+    second: Plains_tiles_25
+  - first:
+      213: -4571052661688112537
+    second: Plains_tiles_26
+  - first:
+      213: 7912949393238068741
+    second: Plains_tiles_27
+  - first:
+      213: -5453993823399544794
+    second: Plains_tiles_28
+  - first:
+      213: -4679156531015428264
+    second: Plains_tiles_29
+  - first:
+      213: -6535143346937314773
+    second: Plains_tiles_30
+  - first:
+      213: 148693827457872990
+    second: Plains_tiles_31
+  - first:
+      213: -6107605416379361986
+    second: Plains_tiles_32
+  - first:
+      213: 2839033467065510762
+    second: Plains_tiles_33
+  - first:
+      213: 1416484047958058909
+    second: Plains_tiles_34
+  - first:
+      213: 4708929277350559711
+    second: Plains_tiles_35
+  - first:
+      213: 6461107508849325956
+    second: Plains_tiles_36
+  - first:
+      213: -3281294167434544777
+    second: Plains_tiles_37
+  - first:
+      213: 5813681917479186972
+    second: Plains_tiles_38
+  - first:
+      213: 266355034359055562
+    second: Plains_tiles_39
+  - first:
+      213: 4888339534017440941
+    second: Plains_tiles_40
+  - first:
+      213: 2884195018426848500
+    second: Plains_tiles_41
+  - first:
+      213: 1561673312363792560
+    second: Plains_tiles_42
+  - first:
+      213: 7344057208780147689
+    second: Plains_tiles_43
+  - first:
+      213: 6692614976958167659
+    second: Plains_tiles_44
+  - first:
+      213: 2052267789634450408
+    second: Plains_tiles_45
+  - first:
+      213: 8603835739721637554
+    second: Plains_tiles_46
+  - first:
+      213: -8116370780266242930
+    second: Plains_tiles_47
+  - first:
+      213: 2628033554555727086
+    second: Plains_tiles_48
+  - first:
+      213: -2684017070427561751
+    second: Plains_tiles_49
+  - first:
+      213: -2461326483385978325
+    second: Plains_tiles_50
+  - first:
+      213: 2140421736979389463
+    second: Plains_tiles_51
+  - first:
+      213: 626101335237800449
+    second: Plains_tiles_52
+  - first:
+      213: 6042526529935929515
+    second: Plains_tiles_53
+  - first:
+      213: 5672857157275789862
+    second: Plains_tiles_54
+  - first:
+      213: 1755582449368776292
+    second: Plains_tiles_55
+  - first:
+      213: 8721127666551089877
+    second: Plains_tiles_56
+  - first:
+      213: -655419936894921591
+    second: Plains_tiles_57
+  - first:
+      213: 3028073684853174974
+    second: Plains_tiles_58
+  - first:
+      213: 8563969503016757273
+    second: Plains_tiles_59
+  - first:
+      213: -337807087757607280
+    second: Plains_tiles_60
+  - first:
+      213: 7493808258434317995
+    second: Plains_tiles_61
+  - first:
+      213: -2661925236336676266
+    second: Plains_tiles_62
+  - first:
+      213: -4123739178196387322
+    second: Plains_tiles_63
+  - first:
+      213: 5601328607855501573
+    second: Plains_tiles_64
+  - first:
+      213: 6711316935756765611
+    second: Plains_tiles_65
+  - first:
+      213: -8895261520582891274
+    second: Plains_tiles_66
+  - first:
+      213: 5724734047003615400
+    second: Plains_tiles_67
+  - first:
+      213: 8452029641653042939
+    second: Plains_tiles_68
+  - first:
+      213: 9076103524828803510
+    second: Plains_tiles_69
+  - first:
+      213: -576642405449899229
+    second: Plains_tiles_70
+  - first:
+      213: -7750993732148187467
+    second: Plains_tiles_71
+  - first:
+      213: 6973620943489184412
+    second: Plains_tiles_72
+  - first:
+      213: 4785107027452957597
+    second: Plains_tiles_73
+  - first:
+      213: -8878019413867212507
+    second: Plains_tiles_74
+  - first:
+      213: -1976461335237353541
+    second: Plains_tiles_75
+  - first:
+      213: 7518409142739744053
+    second: Plains_tiles_76
+  - first:
+      213: 4934346747299120366
+    second: Plains_tiles_77
+  - first:
+      213: -2234996378769498202
+    second: Plains_tiles_78
+  - first:
+      213: 4061729738646796320
+    second: Plains_tiles_79
+  - first:
+      213: 3369367346498811925
+    second: Plains_tiles_80
+  - first:
+      213: 4446311281671413744
+    second: Plains_tiles_81
+  - first:
+      213: 7519714696195471563
+    second: Plains_tiles_82
+  - first:
+      213: 5837451173910861944
+    second: Plains_tiles_83
+  - first:
+      213: 5535281068502058790
+    second: Plains_tiles_84
+  - first:
+      213: 2297282058751793992
+    second: Plains_tiles_85
+  - first:
+      213: -8239864579610631527
+    second: Plains_tiles_86
+  - first:
+      213: 3073821222817776822
+    second: Plains_tiles_87
+  - first:
+      213: -2422230906991021666
+    second: Plains_tiles_88
+  - first:
+      213: 3308671928170493649
+    second: Plains_tiles_89
+  - first:
+      213: -4619894930028789571
+    second: Plains_tiles_90
+  - first:
+      213: -8757022866195485513
+    second: Plains_tiles_91
+  - first:
+      213: 3826568808957482898
+    second: Plains_tiles_92
+  - first:
+      213: -4569874171423681353
+    second: Plains_tiles_93
+  - first:
+      213: 1484167935292752160
+    second: Plains_tiles_94
+  - first:
+      213: 3049383442226941706
+    second: Plains_tiles_95
+  - first:
+      213: 2491794894604577075
+    second: Plains_tiles_96
+  - first:
+      213: 401038793364059314
+    second: Plains_tiles_97
+  - first:
+      213: -3732227543803853175
+    second: Plains_tiles_98
+  - first:
+      213: -4449552909954747347
+    second: Plains_tiles_99
+  - first:
+      213: -1331192674738791125
+    second: Plains_tiles_100
+  - first:
+      213: 8397950196143037291
+    second: Plains_tiles_101
+  - first:
+      213: -1920298162283247517
+    second: Plains_tiles_102
+  - first:
+      213: 74651162353602281
+    second: Plains_tiles_103
+  - first:
+      213: 4030969496797645448
+    second: Plains_tiles_104
+  - first:
+      213: -4323218478034452596
+    second: Plains_tiles_105
+  - first:
+      213: 2242411497267688251
+    second: Plains_tiles_106
+  - first:
+      213: -1756076943780267107
+    second: Plains_tiles_107
+  - first:
+      213: -917620725825393704
+    second: Plains_tiles_108
+  - first:
+      213: -273613990620669484
+    second: Plains_tiles_109
+  - first:
+      213: 6701586263114852002
+    second: Plains_tiles_110
+  - first:
+      213: -7707252068570591132
+    second: Plains_tiles_111
+  - first:
+      213: -3972690606800973639
+    second: Plains_tiles_112
+  - first:
+      213: 5054648614322753225
+    second: Plains_tiles_113
+  - first:
+      213: -1779340108462234097
+    second: Plains_tiles_114
+  - first:
+      213: -8334581056950280228
+    second: Plains_tiles_115
+  - first:
+      213: -8004604858163332467
+    second: Plains_tiles_116
+  - first:
+      213: -7402090027764092291
+    second: Plains_tiles_117
+  - first:
+      213: -912537788815786972
+    second: Plains_tiles_118
+  - first:
+      213: 4684395393134845912
+    second: Plains_tiles_119
+  - first:
+      213: -6209731374374417213
+    second: Plains_tiles_120
+  - first:
+      213: -1017197470652841168
+    second: Plains_tiles_121
+  - first:
+      213: -7704725799127635203
+    second: Plains_tiles_122
+  - first:
+      213: -2582066571390818574
+    second: Plains_tiles_123
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plains_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 892
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca7f41bc064e530800000000000000
+      internalID: 3883335204046613574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 892
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf781657bfa96a0800000000000000
+      internalID: -6441559835434026295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 892
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad429c3b277f770800000000000000
+      internalID: 8644504126260304399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43ce2322155b42a0800000000000000
+      internalID: -6752209679923887281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 874
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1bc329e71d5a320800000000000000
+      internalID: 2568689504034271721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 874
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea673e62ae20e30800000000000000
+      internalID: 4468391233050816195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a830f65c66efab1b0800000000000000
+      internalID: -5639915865975618678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a4ea9545e47c10800000000000000
+      internalID: 2050515817474598910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070a347d9d91bbc0800000000000000
+      internalID: -3769058113547008254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e52e148d86af90800000000000000
+      internalID: -6942706176964041319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e300b923e64c7a0800000000000000
+      internalID: -6357835610312393105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998daf7db0881fe0800000000000000
+      internalID: -1218082147824465514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24180a7aed7863520800000000000000
+      internalID: 2681480018510512450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a141b75f7d5800800000000000000
+      internalID: 602777939750266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477bf7790d08817f0800000000000000
+      internalID: -641621313517013132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66824b1cfcbd7ffe0800000000000000
+      internalID: -1155213094042720154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627d00ba3c7962570800000000000000
+      internalID: 8441601418195949350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 820
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5adaf4cd9d92010800000000000000
+      internalID: 1164701518904796658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197b418efd296b50800000000000000
+      internalID: 6586846501120211228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e15a73c9f66440f0800000000000000
+      internalID: -1133667983278059036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44683fcc4e391f1a0800000000000000
+      internalID: -6777473353315547580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897dd1fb991e9c550800000000000000
+      internalID: 6181720013995366296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 802
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17119a831a20140800000000000000
+      internalID: 4684483827145470407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957842959dce94210800000000000000
+      internalID: 1317844784230205273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fee3cc45f9fff0800000000000000
+      internalID: -1700614783438335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac1e14369f0ad1d0800000000000000
+      internalID: -3325328237065790304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 784
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ae97a92db5090c0800000000000000
+      internalID: -4571052661688112537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e099d6c8170dd60800000000000000
+      internalID: 7912949393238068741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628781d93858f44b0800000000000000
+      internalID: -5453993823399544794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85750602deb401fb0800000000000000
+      internalID: -4679156531015428264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b224b8920c18e45a0800000000000000
+      internalID: -6535143346937314773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547bed8f34401200800000000000000
+      internalID: 148693827457872990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d478bb3d6d3ba0800000000000000
+      internalID: -6107605416379361986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba2ed75e5466720800000000000000
+      internalID: 2839033467065510762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972c8c9cbc58a310800000000000000
+      internalID: 1416484047958058909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfbae09a3a795140800000000000000
+      internalID: 4708929277350559711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b2900c077aa950800000000000000
+      internalID: 6461107508849325956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b08af6508672d0800000000000000
+      internalID: -3281294167434544777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c127578d6e85ea050800000000000000
+      internalID: 5813681917479186972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 748
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4cb171e7842b300800000000000000
+      internalID: 266355034359055562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 748
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacab9a18eed6d340800000000000000
+      internalID: 4888339534017440941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 694
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f498409618b60820800000000000000
+      internalID: 2884195018426848500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 730
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c6ae7a9d2ca510800000000000000
+      internalID: 1561673312363792560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebcc73fe155be560800000000000000
+      internalID: 7344057208780147689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 730
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6afc00dcd1f0ec50800000000000000
+      internalID: 6692614976958167659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e333296eae1b7c10800000000000000
+      internalID: 2052267789634450408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 730
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1beb2507f66770800000000000000
+      internalID: 8603835739721637554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 730
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cded817cbdc5f80800000000000000
+      internalID: -8116370780266242930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 730
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece91d0896a87420800000000000000
+      internalID: 2628033554555727086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 712
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a41ae1b470cad0800000000000000
+      internalID: -2684017070427561751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227481aa9c97ddd0800000000000000
+      internalID: -2461326483385978325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c5e26ba3e44bd10800000000000000
+      internalID: 2140421736979389463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1023f30e8db50b800800000000000000
+      internalID: 626101335237800449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba074b24ddd5bd350800000000000000
+      internalID: 6042526529935929515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 712
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa4f847890abe40800000000000000
+      internalID: 5672857157275789862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e398cafe41d5810800000000000000
+      internalID: 1755582449368776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 712
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daeb9df76ba70970800000000000000
+      internalID: 8721127666551089877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845baa3a0b77e6f0800000000000000
+      internalID: -655419936894921591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2b16319f0e50a20800000000000000
+      internalID: 3028073684853174974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918a79e93e459d670800000000000000
+      internalID: 8563969503016757273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e39935e3edf4bf0800000000000000
+      internalID: -337807087757607280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 694
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebdda38ea5ff760800000000000000
+      internalID: 7493808258434317995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652318dd911fe0bd0800000000000000
+      internalID: -2661925236336676266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 676
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3e31e01985c6c0800000000000000
+      internalID: -4123739178196387322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e57511baebbd40800000000000000
+      internalID: 5601328607855501573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba958dae133632d50800000000000000
+      internalID: 6711316935756765611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a471b6cead8480800000000000000
+      internalID: -8895261520582891274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02c39e847527f40800000000000000
+      internalID: 5724734047003615400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 658
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe3dc5ad24ab4570800000000000000
+      internalID: 8452029641653042939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 640
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1771e811cc4fd70800000000000000
+      internalID: 9076103524828803510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3236bb499ca5ff7f0800000000000000
+      internalID: -576642405449899229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be27036440fe6490800000000000000
+      internalID: -7750993732148187467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 640
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b5eedc4747c060800000000000000
+      internalID: 6973620943489184412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 640
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931f872d7d186240800000000000000
+      internalID: 4785107027452957597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215c6f7160fac480800000000000000
+      internalID: -8878019413867212507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf12e823e23294e0800000000000000
+      internalID: -1976461335237353541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5353d05f741c65860800000000000000
+      internalID: 7518409142739744053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44e5f29325a7440800000000000000
+      internalID: 4934346747299120366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 622
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd82192a2bbf0e0800000000000000
+      internalID: -2234996378769498202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028bea56da92e5830800000000000000
+      internalID: 4061729738646796320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518bcddffb562ce20800000000000000
+      internalID: 3369367346498811925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff16d89d8874bd30800000000000000
+      internalID: 4446311281671413744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f30fcca46b5860800000000000000
+      internalID: 7519714696195471563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878d4ae1aeac20150800000000000000
+      internalID: 5837451173910861944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627820cfdc441dc40800000000000000
+      internalID: 5535281068502058790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b57c46cd591ef10800000000000000
+      internalID: 2297282058751793992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922cfe42de16ad80800000000000000
+      internalID: -8239864579610631527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44c19cd1868aa20800000000000000
+      internalID: 3073821222817776822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 586
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f3d8d2d1826ed0800000000000000
+      internalID: -2422230906991021666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b8eca693caed20800000000000000
+      internalID: 3308671928170493649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 568
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db08104d906d2efb0800000000000000
+      internalID: -4619894930028789571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bce172991ec87680800000000000000
+      internalID: -8757022866195485513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971086ce04ba1530800000000000000
+      internalID: 3826568808957482898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41f0047ab8490c0800000000000000
+      internalID: -4569874171423681353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 567
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021462aafd2d89410800000000000000
+      internalID: 1484167935292752160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 568
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f05e99516915a20800000000000000
+      internalID: 3049383442226941706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 490
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a90a2142a49220800000000000000
+      internalID: 2491794894604577075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 508
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4bd9368a6c09500800000000000000
+      internalID: 401038793364059314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 430
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98684a6b2d6743cc0800000000000000
+      internalID: -3732227543803853175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 472
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2477d004330042c0800000000000000
+      internalID: -4449552909954747347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 422
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9796b057a68de0800000000000000
+      internalID: -1331192674738791125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 372
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b178a85338b8470800000000000000
+      internalID: 8397950196143037291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 333
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368854edefab955e0800000000000000
+      internalID: -1920298162283247517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee082e26d6390100800000000000000
+      internalID: 74651162353602281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0f0d7661e0f730800000000000000
+      internalID: 4030969496797645448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ff95a13b7d004c0800000000000000
+      internalID: -4323218478034452596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3374ee3065ae1f10800000000000000
+      internalID: 2242411497267688251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b39bfd25921a7e0800000000000000
+      internalID: -1756076943780267107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db24a6cfc4f343f0800000000000000
+      internalID: -917620725825393704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95a73768de33cf0800000000000000
+      internalID: -273613990620669484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 197
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a629942331d00d50800000000000000
+      internalID: 6701586263114852002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 97
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460947214175a0590800000000000000
+      internalID: -7707252068570591132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d81bf0fa2ed8c0800000000000000
+      internalID: -3972690606800973639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 179
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec0215228b52640800000000000000
+      internalID: 5054648614322753225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06e08449938e47e0800000000000000
+      internalID: -1779340108462234097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf57ccefae955c80800000000000000
+      internalID: -8334581056950280228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8afecdaa4ee9e090800000000000000
+      internalID: -8004604858163332467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f8a3765e764990800000000000000
+      internalID: -7402090027764092291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 97
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb38547b30653f0800000000000000
+      internalID: -912537788815786972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 29
+        width: 32
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df57438ac0520140800000000000000
+      internalID: 4684395393134845912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 63
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc80df273a92d9a0800000000000000
+      internalID: -6209731374374417213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 63
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cf4f2a4032e1f0800000000000000
+      internalID: -1017197470652841168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 29
+        width: 86
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaa53305b0531590800000000000000
+      internalID: -7704725799127635203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plains_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 29
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6e6d93228aa2cd0800000000000000
+      internalID: -2582066571390818574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

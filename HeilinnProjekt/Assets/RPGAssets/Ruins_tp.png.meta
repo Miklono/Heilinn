@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 54e116a255998e14f885f59d3fdea50d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7553084419433931397
+    second: Ruins_tp_0
+  - first:
+      213: 436072728775428171
+    second: Ruins_tp_1
+  - first:
+      213: -9181930049227493437
+    second: Ruins_tp_2
+  - first:
+      213: 8761955451095990166
+    second: Ruins_tp_3
+  - first:
+      213: -3667187158722480549
+    second: Ruins_tp_4
+  - first:
+      213: -4437514768235377924
+    second: Ruins_tp_5
+  - first:
+      213: 2537140297919012382
+    second: Ruins_tp_6
+  - first:
+      213: 312426776219430111
+    second: Ruins_tp_7
+  - first:
+      213: 8051197555861342295
+    second: Ruins_tp_8
+  - first:
+      213: -1396813735928475003
+    second: Ruins_tp_9
+  - first:
+      213: -6069177785681605802
+    second: Ruins_tp_10
+  - first:
+      213: -9065166860384230933
+    second: Ruins_tp_11
+  - first:
+      213: -7281064643115506468
+    second: Ruins_tp_12
+  - first:
+      213: 1558410733590125406
+    second: Ruins_tp_13
+  - first:
+      213: -8148526348696494222
+    second: Ruins_tp_14
+  - first:
+      213: 88279015946252956
+    second: Ruins_tp_15
+  - first:
+      213: -8634686263192714884
+    second: Ruins_tp_16
+  - first:
+      213: -2216426752097127913
+    second: Ruins_tp_17
+  - first:
+      213: -5786709057006551348
+    second: Ruins_tp_18
+  - first:
+      213: -4799179961267661310
+    second: Ruins_tp_19
+  - first:
+      213: -3761666517599601926
+    second: Ruins_tp_20
+  - first:
+      213: 346524848070285086
+    second: Ruins_tp_21
+  - first:
+      213: 3838913401568744787
+    second: Ruins_tp_22
+  - first:
+      213: -4904868440248355195
+    second: Ruins_tp_23
+  - first:
+      213: 6730312731050342539
+    second: Ruins_tp_24
+  - first:
+      213: -7708276236373558060
+    second: Ruins_tp_25
+  - first:
+      213: -402268772103109145
+    second: Ruins_tp_26
+  - first:
+      213: 8436683998048129949
+    second: Ruins_tp_27
+  - first:
+      213: -3130228436073742766
+    second: Ruins_tp_28
+  - first:
+      213: -1899166066903998051
+    second: Ruins_tp_29
+  - first:
+      213: -3460422362505446178
+    second: Ruins_tp_30
+  - first:
+      213: -5556970437735031761
+    second: Ruins_tp_31
+  - first:
+      213: 2148951439248061857
+    second: Ruins_tp_32
+  - first:
+      213: 7822903599596664736
+    second: Ruins_tp_33
+  - first:
+      213: 2236081094921326504
+    second: Ruins_tp_34
+  - first:
+      213: 4139878434743959448
+    second: Ruins_tp_35
+  - first:
+      213: 3972742321023238221
+    second: Ruins_tp_36
+  - first:
+      213: -1468413655362057103
+    second: Ruins_tp_37
+  - first:
+      213: 6876121449944842215
+    second: Ruins_tp_38
+  - first:
+      213: 1228263333655402026
+    second: Ruins_tp_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ruins_tp_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 220
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d5a1d0dbd0e2790800000000000000
+      internalID: -7553084419433931397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4805ee16dd3d0600800000000000000
+      internalID: 436072728775428171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6f47a44b339080800000000000000
+      internalID: -9181930049227493437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbf585f08b89970800000000000000
+      internalID: 8761955451095990166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 173
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f87f65b88b1dc0800000000000000
+      internalID: -3667187158722480549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_5
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 173
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac7c944d7ca62c0800000000000000
+      internalID: -4437514768235377924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9aca98abb53320800000000000000
+      internalID: 2537140297919012382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc21e66f76f55400800000000000000
+      internalID: 312426776219430111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758cb9d15899bbf60800000000000000
+      internalID: 8051197555861342295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d89cce458d9ce0800000000000000
+      internalID: -1396813735928475003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b81c5b5f2f5cba0800000000000000
+      internalID: -6069177785681605802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a72115ce023280800000000000000
+      internalID: -9065166860384230933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 121
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a178a84674fa90800000000000000
+      internalID: -7281064643115506468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 121
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b9bcd2e4690a510800000000000000
+      internalID: 1558410733590125406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 121
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd807657e9aee80800000000000000
+      internalID: -8148526348696494222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f89a1c41a93100800000000000000
+      internalID: 88279015946252956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710477979e6b2880800000000000000
+      internalID: -8634686263192714884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f392bc9bad31e0800000000000000
+      internalID: -2216426752097127913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceb69e95ca71bfa0800000000000000
+      internalID: -5786709057006551348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d77b9043e56db0800000000000000
+      internalID: -4799179961267661310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afabefe7b30ebcbc0800000000000000
+      internalID: -3761666517599601926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17531b638a1fc400800000000000000
+      internalID: 346524848070285086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ddf7366f864530800000000000000
+      internalID: 3838913401568744787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f8f404286eebb0800000000000000
+      internalID: -4904868440248355195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887b8925cfd66d50800000000000000
+      internalID: 6730312731050342539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_25
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7e5c6a93b60590800000000000000
+      internalID: -7708276236373558060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5cf8edeaada6af0800000000000000
+      internalID: -402268772103109145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9391e1956f151570800000000000000
+      internalID: 8436683998048129949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_28
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 82
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7ff172d13f84d0800000000000000
+      internalID: -3130228436073742766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9126bc368ec4a5e0800000000000000
+      internalID: -1899166066903998051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7b06023c1affc0800000000000000
+      internalID: -3460422362505446178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cd47734dca1e2b0800000000000000
+      internalID: -5556970437735031761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f1f7c2fb92dd10800000000000000
+      internalID: 2148951439248061857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a775165069809c60800000000000000
+      internalID: 7822903599596664736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af80c798e7280f10800000000000000
+      internalID: 2236081094921326504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 46
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fb63c908dc37930800000000000000
+      internalID: 4139878434743959448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_36
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4040cca714022730800000000000000
+      internalID: 3972742321023238221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_37
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ccfc87f852f9be0800000000000000
+      internalID: -1468413655362057103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff7680704ec6f50800000000000000
+      internalID: 6876121449944842215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_tp_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26da2d8efaab0110800000000000000
+      internalID: 1228263333655402026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
